@@ -1,5 +1,5 @@
-# smart-agro
-Smart-Agro Fertilizer Recommendation System
+# AgroSmart
+AgroSmart Fertilizer Recommendation System
 
 This repository contains a simple Flask-based web application that provides fertilizer recommendations based on input parameters like temperature, humidity, moisture, soil type, crop type, and nutrient levels.This is just a prototype, and we plan to add more features in the future.
 
