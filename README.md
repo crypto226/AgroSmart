@@ -87,3 +87,6 @@ Usage:
 
 2.Click the "Recommend" button to get a fertilizer recommendation.
   The result will be displayed on the page.
+
+
+Note: For more  detailed information please visit  https://youtu.be/dYLC2qj2aFE?feature=shared 
