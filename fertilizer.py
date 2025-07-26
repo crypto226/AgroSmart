@@ -117,7 +117,7 @@ def recommend_fertilizer(input_data: dict, preprocessor, fert_encoder):
     print(f"\n🌱 Recommended Fertilizer: {recommended_fertilizer}")
 
 # ---------- STEP 4: Run Everything ----------
-if _name_ == "_main_":
+if __name__ == "__main__":
     # === 1. Load your dataset ===
     dataset_path = input("📂 Enter path to your fertilizer CSV dataset: ").strip()
     if not os.path.exists(dataset_path):
