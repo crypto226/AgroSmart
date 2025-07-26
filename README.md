@@ -3,6 +3,14 @@ Smart-Agro Fertilizer Recommendation System
 
 This repository contains a simple Flask-based web application that provides fertilizer recommendations based on input parameters like temperature, humidity, moisture, soil type, crop type, and nutrient levels.
 
+--------IMPORTANT-----------
+
+USERNAME:farmer
+
+PASSWORD:12345
+
+----------------------------
+
 Prerequisites:
 
 1.Python 3.x
