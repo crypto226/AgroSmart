@@ -1,7 +1,7 @@
 # smart-agro
 Smart-Agro Fertilizer Recommendation System
 
-This repository contains a simple Flask-based web application that provides fertilizer recommendations based on input parameters like temperature, humidity, moisture, soil type, crop type, and nutrient levels.
+This repository contains a simple Flask-based web application that provides fertilizer recommendations based on input parameters like temperature, humidity, moisture, soil type, crop type, and nutrient levels.This is just a prototype, and we plan to add more features in the future.
 
 --------IMPORTANT-----------
 
@@ -54,6 +54,7 @@ project_folder/
 
 make sure that the files are arranged like this 
 
+
 1.Clone the Repository:
 
 If this is a cloned repository, ensure all files are present. Otherwise, download all files to a single directory.
@@ -77,7 +78,7 @@ This will start the Flask development server. By default, it runs on http://127.
 
 5.Access the Application
 
-Open your web browser and go to http://127.0.0.1:5000/ to access the recommendation interface.
+Open your web browser and go to http://127.0.0.1:5000/ to access the moddel.
 
 
 Usage:
