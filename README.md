@@ -78,7 +78,7 @@ This will start the Flask development server. By default, it runs on http://127.
 
 5.Access the Application
 
-Open your web browser and go to http://127.0.0.1:5000/ to access the moddel.
+Open your web browser and go to http://127.0.0.1:5000/ to access the model.
 
 
 Usage:
